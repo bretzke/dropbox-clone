@@ -1,0 +1,21 @@
+{
+  "name": "dropbox-clone",
+  "homepage": "https://github.com/bretzke/dropbox-clone",
+  "authors": [
+    "Willian Bretzke"
+  ],
+  "description": "Projeto visa clonar o Dropbox com o intuito de estudo",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ionicons": "ionicons#^2.0.1",
+    "bootstrap": "^4.1.0"
+  }
+}
